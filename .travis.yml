@@ -1,6 +1,6 @@
 os: linux
 version: beaver
-language: node_js
+#language: node_js
 services:
     - docker
 
