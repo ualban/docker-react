@@ -1,5 +1,5 @@
 os: linux
-version: bionic
+dist: bionic
 #language: node_js
 services:
     - docker
