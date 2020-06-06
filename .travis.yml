@@ -1,5 +1,5 @@
 os: linux
-version: beaver
+version: bionic
 #language: node_js
 services:
     - docker
